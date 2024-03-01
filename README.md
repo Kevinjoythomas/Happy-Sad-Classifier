@@ -1,4 +1,4 @@
-# Happy Sad Classifier ✍️✍️
+# Happy Sad Classifier 😊😞
 Description 📃📃:
 Convolutional Neural Network (CNN) image classifier, a deep learning model capable of identifying and categorizing images based on learned patterns and features. It is trained using  786 images total of happy and sad people.
 
