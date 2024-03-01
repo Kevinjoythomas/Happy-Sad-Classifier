@@ -11,3 +11,4 @@ It comprises 16-32-16 layers along with maxpooling and finally 2 strongly connec
 ## Accuracy 🔩🔩
 It showed an accuracy of 98.5 in the training set and 100% in the validation set and a precision: of 1.0, Recall:  of 1.0, and Accuracy:  of 1.0 in the testing set.
 
+![Alt Text](https://github.com/Kevinjoythomas/Happy-Sad-Classifier/blob/main/assets/Screenshot_1-3-2024_174347_github.com.jpeg)
